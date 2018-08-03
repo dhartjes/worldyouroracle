@@ -1,0 +1,2 @@
+RedirectMatch .* http://thorin.visn.co.uk/suspended.page/
+Options -Includes -Indexes -ExecCGI

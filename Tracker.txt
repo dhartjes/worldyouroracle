@@ -1,0 +1,300 @@
+calendar
+
+links
+
+optimizing
+
+forum -- that Nancy can moderate
+
+paypal
+
+
+
+12/6/2002 Here's the scoop to date:
+
+
+
+Just billed all the below at $120 (5 hours X $24/hour).
+
+12/16 I worked 1 hours on file compressions & calendar update.
+
+12/9    I worked 0.5 hours on file compressions, bio page upload for client check, calendar update, email explaining options (also changed "street" to "court" but on my time).
+
+12/6    I worked 2 hours on eddress & street address updates & creating and uploading a sermon page, with changes and added link to the writings page as a result of this inclusion. I also activated some links that weren't, and tweaked the consistency of the links system (all but namesake pages should have all links active; Per had inactivated those links on the "sub-pages" (like the "Writings" link inactive on the Delphyne story page because Delphyne is a as a subpage of Writings; this makes sense from an ontological perspective, but not from the user's perspective, especially when they enter the site from something other than a home page).
+
+
+
+Nancy gave me a check in May/June 2002 for $36 (1.5 hours), which I have not yet cashed. Need to talk with her about 3 hrs ($72) and billing, esp. into 2003.
+
+
+
+Here's original blurb from Nancy about account access:
+
+
+
+    First before I forget it, here is the info you will need to help me 
+
+maintain my site.  My server is cedant.com.  My domain name is 
+
+www.mamasminstrel.net.  My username is mamasm.  My password is earthma.  I 
+
+don't know what an FTP log-in or address is.  The IP Address is 
+
+65.108.125.242.  To look at administration of the site it's 
+
+www.mamasminstrel.net/menu.  I hope that is all the information you need.  
+
+But if that doesn't cover the FTP log-in, let me know.
+
+
+
+To access her hosting account: mamasminstrel.net/menu (no www)
+
+
+
+registrar: gandi.net @ bottom renewal help
+
+Dear Nancy,
+
+
+
+Thank you for your message.
+
+The tracking code is 217331-1077031376.
+
+If you need to contact us again for the same issue,
+
+please leave this code in the subject of your message.
+
+
+
+We have just sent an acknowledgement to webmagistra@yahoo.com
+
+
+
+Best regards,
+
+GANDI Support Team
+
+
+This website works to convert .ram to .mp3.
+http://www.online-convert.com/
+
+Details about hiding your email address from spiders.
+http://help.website-creator.org/customer/portal/articles/1409304-avoiding-spam-when-posting-an-email-address
+
+
+
+
+Accessing Account:
+
+
+Hi Dominic --
+
+
+They upgraded in September.  That's the problem.  Please change the password for me.  I will send you the current(?) password in another email.
+
+I hope this gives you the info you need.
+
+Thanks,
+Nancy
+
+-----Original Message-----
+From: Vision Internet Limited <info@visn.co.uk>
+To: mcsnvs <mcsnvs@aol.com>
+Sent: Sun, Sep 6, 2015 12:04 pm
+Subject: Password change required for mamasminstrel.net due to PHP/MySQL upgrade
+
+TO: mcsnvs@aol.com
+
+
+Greetings.
+
+This is a reminder that the password
+you're currently using for your hosting account with ourselves - mama1669 will
+not be fully compatible with our servers after the PHP/MySQL upgrade being
+carried out on Sunday 13th Sept. It is therefore essential that you change your
+password before the upgrade. To do this, please log into the control panel for
+your account as normal and you will be prompted to change the account password.
+You can log into the control panel for your account by going to
+https://chica.visn.co.uk/cpanel/ with the username of mama1669
+
+If you've
+forgotten your password for your control panel and FTP, please use the reset
+password option by going to https://chica.visn.co.uk/cpanel/. When prompted
+for
+a username and password, click 'Reset password'. You should then see a page
+containing a reset password feature. The username you need to enter is
+mama1669
+
+An email will be sent to the contact address listed in our records
+containing a link which when clicked, will inform you of your new
+password.
+
+
+Regards,
+
+Vision Internet
+Limited
+http://www.visn.co.uk
+Company Number: 4878785
+
+
+
+
+Conversation opened. 10 messages. All messages read.
+
+Skip to content
+Using Gmail with screen readers
+Search
+
+
+info@visn.co.uk 
+
+Gmail
+COMPOSE
+Labels
+Inbox (32)
+Drafts (23)
+Trash
+Accounts
+BillPay
+AutoPay (2)
+ManualPay (19)
+Budgeting (11)
+Ads (10)
+Receipts (16)
+Calendar Updates (65)
+Cedar Lake 7 (2)
+Church
+Credit/Loans
+Chase (9)
+Great Lakes (19)
+Filing Cabinet
+Friends and Fam (8)
+Gaming (11)
+Home
+Lifetouch
+MCTC (1)
+Music Education
+Networking
+Notes
+Tech
+YouTube
+More 
+Move to Inbox
+ More 
+2 of 3  
+ 
+Expand all Print all In new window
+Some questions on Nancy V-S's website 
+Inbox
+x 
+
+Nancy Vedder-Shults <nancyv-s@tds.net>
+10/6/15
+
+to Per, me 
+Hi Per --
+
+I found someone who can do the minor changes I need done to my website (my nephew's brother-in-law Dominic Hartjes).  He wants to know a few technical things that would help him get started, such as where the code resides, who hosts it, and what languages it is currently written in. I can tell him who hosts the website -- It's  Vision Internet Limited <info@visn.co.uk> -- but the code and language questions are beyond me.  If you "reply all," Dominic will get your answers, too.
+
+I hope you are doing well.  My exciting news is that I now have a literary agent.  Yay!!! I will be signing the contract tomorrow (and that happened despite my out-of-date website).  But going forward with publishers, I need to update the website.
+
+Love to you out in Oregonland,
+Nancy
+
+Per Kielland-Lund <pklund@gmail.com>
+10/6/15
+
+to Nancy, me 
+Hi Nancy
+
+Good to hear you found someone!
+
+ It's written in old fashioned and simple HTML. The host should be able to answer any other questions.
+
+Be well,
+Per
+
+
+Dominic Hartjes <dhartjes@gmail.com>
+10/8/15
+
+to Per, Nancy 
+Hello Nancy and Per,
+
+I had a little difficulty connecting to the site using the host name and credentials below. I was wondering if we could double check this information and make sure it is current. 
+
+Host: Vision Internet Limited <info@visn.co.uk>.
+Hostname: thorin.visn.co.uk
+login name: mama1669
+password: t7hLeVav
+
+
+My other theory is that Vision Internet Limited may have moved your application to another machine. I was able to determine that the hostname may actually be chica.visn.co.uk at this point. If this information is up-to-date, we may need to contact the host to determine what if anything has changed.
+
+Thanks,
+Dominic
+
+
+Per Kielland-Lund <pklund@gmail.com>
+10/8/15
+
+to me, Nancy 
+Yes, I think it's best to contact the host.
+
+
+Dominic Hartjes <dhartjes@gmail.com>
+10/9/15
+
+to Per, Nancy 
+Nancy, 
+
+There is also a password reset function that I was able to find, but I wanted to check with you first before doing that. Two questions first: are you OK with that, and do you know what email address you used to sign up with Vision Limited Internet?
+
+Thanks,
+Dominic
+
+
+Nancy Vedder-Shults <nancyv-s@tds.net>
+10/9/15
+
+to me, Per 
+Hi Dominic --
+
+Yes, go ahead and reset the password if you need to.  I used mcsnvs@aol.com to sign up with Vision Limited. And I don't use that email anymore, so they probably told me all about the changes and I never saw it.  Hope this works.
+
+Thanks,
+Nancy
+
+
+Dominic Hartjes <dhartjes@gmail.com>
+10/9/15
+
+to Nancy 
+Hey Nancy,
+
+Are you able to access that email account still? There should be an email there now with a confirmation code and a link that will allow you to reset your password. Could you either send me the code or click the link to reset your password? 
+
+Thanks,
+Dominic
+
+
+Nancy Vedder-Shults		10/9/15
+Hi Dominic -- So...I just sent you the email I never saw (because I don't use...
+
+Dominic Hartjes		10/10/15
+Ok, I got access! The new password is: 20M)dJm=nGnm I'll have to push back th...
+
+Nancy Vedder-Shults <nancyv-s@tds.net>
+10/10/15
+
+to me 
+Great Dominic!  Keep me posted on the hours.  Tuesday for the photos is fine.  I think it would be best if I paid you when you're finished with both jobs.  
+
+I had dinner with Ech, Madee, Micah, Barbara and Luciano tonight.  It was fun.  And the dessert Madee made was amazingly delicious.  She's quite the cook.
+
+Thanks,
+Nancy
+

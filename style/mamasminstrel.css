@@ -1,0 +1,426 @@
+img.image-large {
+    float: left; 
+    margin-right: 10px;
+    width: 350px;
+}
+
+.img-450 {
+    width: 450px;
+}
+
+.Home-banner {
+    width: 100%;
+}
+
+.img-300 {
+    width: 300px;
+}
+
+.img-200 {
+    width: 200px;
+    padding-right: 20px;
+}
+
+.writings-img-left {
+    width: 272px;
+    float: left;
+    padding: 10px;
+}
+
+.call-to-action {
+    font-weight: bold;
+    font-size: 120%;
+}
+
+.top-buffer { 
+    margin-top:20px;
+}
+
+.social {
+    padding-bottom: 20px;
+}
+
+.social a:link {
+    text-decoration-line: none;
+    padding: 0 5px;
+}
+
+.fb-wrapper {
+    width: 100%;
+    text-align: center;
+}
+
+.wrap-image {
+    float: "left";
+}
+
+.main {
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+}
+
+img.bg {
+  /* Set rules to fill background */
+z-index: -1;
+
+  min-height: 100%;
+  min-width: 1024px;
+	
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: auto;
+	
+  /* Set up positioning */
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+@media screen and (max-width: 1024px) { /* Specific to this particular image */
+  img.bg {
+    left: 50%;
+    margin-left: -512px;   /* 50% */
+  }
+}
+
+
+body {
+    font-size: 20px;
+    color: black;
+    font-family: helvetica, arial, sans-serif;
+    background-color: rgba(0,0,0,0);
+    margin: 0;
+}
+
+.Oracle-carouselNav:hover {
+    color: #046183 
+}
+
+.op-5 {
+    opacity: 0.5;
+}
+
+li, ul {
+    font-family: helvetica, arial, sans-serif;
+}
+
+big {
+    font-family: helvetica, arial, sans-serif;
+    font-size:105%;
+    font-weight: 800;
+}
+
+small {
+    font-family: helvetica, arial, sans-serif;
+    font-size:85%;
+}
+
+b {
+    font-family: helvetica, arial, sans-serif;
+    font-weight: bold;
+    font-size: 100%;
+}
+
+i, u {
+    font-family: helvetica, arial, sans-serif;
+}
+
+h1 {
+    color: #000000;
+    font-family: helvetica, arial, sans-serif;
+    font-weight: 700;
+    font-size: 130%;
+    padding-top: 20px;
+}
+
+h2 {
+    color: #000000;
+    font-family: helvetica, arial, sans-serif;
+    font-weight: 700;
+    font-size: 120%;
+}
+
+h3 {
+    color: #000000;
+    font-family: helvetica, arial, sans-serif;
+    font-weight: 700;
+    font-size: 110%;
+}
+
+h5 {
+    color: #000000;
+    font-family: helvetica, arial, sans-serif;
+    font-weight: 700;
+    font-size: 75%;
+}
+
+.tab {
+    padding-left: 25px !important;
+}
+
+.floatLeft {
+    float: left !important;
+}
+
+.clearFloat {
+    clear: both !important;
+}
+
+/* Site Colors */
+
+.red {
+    color: #99402e;
+}
+
+.smallheadline2 {
+    font-weight: bold;
+    color: #33291E;
+    font-size: 92%;
+}
+
+.HeadingOne {
+    color: #000000;
+    font-family: helvetica, arial, sans-serif;
+    font-weight: 700;
+    font-size: 120%;
+}
+
+.HeadingTwo {
+    color: #000000;
+    font-family: helvetica, arial, sans-serif;
+    font-weight: 700;
+    font-size: 110%;
+}
+
+.Title {
+    color: #264bae;
+    font-family: helvetica, arial, sans-serif;
+    font-weight: 500;
+    font-size: 110%;
+}
+
+a:link {
+    font-weight: bold;
+    font-family: helvetica, arial, sans-serif;
+    font-variant: normal;
+    letter-spacing: .1em;
+    text-decoration-line: none;
+    font-size: 95%;
+}
+
+a:active {
+    text-decoration-line: none;
+    font-weight: bold;
+    font-size: 95%;
+}
+
+a:visited {
+    text-decoration-line: none;
+    font-weight: bold;
+    font-style: normal;
+    letter-spacing: .1em;
+    font-size: 95%;
+}
+
+a:hover {
+    text-decoration-line: none;
+    font-weight: bold;
+    font-size: 95%;
+}
+
+li {
+    line-height: 1.5;
+}
+
+.mainheadline {
+    font-family: helvetica, arial, sans-serif;
+    font-weight: bold;
+    letter-spacing: .2em;
+    word-spacing: normal;
+    white-space: nowrap;
+    font-size: 120%;
+}
+
+.pageheading {
+    font-family: helvetica, arial, sans-serif;
+    font-size: 120%;
+    font-style: normal;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+
+.nolink {
+    font-size: 98%;
+    font-weight: normal;
+}
+
+.wyo-green {
+    color: #046183;
+}
+
+.wyo-red {
+    color: #990000;
+}
+
+h1.page-title {
+    color: #046183;
+    font-family: helvetica, arial, sans-serif;
+    font-weight: 700;
+    font-size: 150%;
+    padding-top: 2px;
+    margin: 2px auto 15px;
+    clear: both;
+    text-align: center;
+}
+
+
+.quotes {
+    font-style: italic;
+    margin: auto;
+    /* text-align: center; */
+    width: 500px;
+}
+
+.source {
+    text-align: right;
+}
+
+.insightsList th, .insightsList td {
+    vertical-align: top;
+    text-align: left;
+    padding: 15px;
+}
+
+/*
+ul {
+	overflow: hidden;
+}*/
+
+div.box {
+	clear: both;
+	display: block;
+}
+
+aside {
+	font-size: 0.8em;
+    width: 400px;
+    float: right;
+}
+
+aside span {
+    float: right;
+    text-align: right;
+    width: 300px;
+}
+
+div#footer {
+    padding-top: 20px;
+}
+
+.footer-line {
+    background-color: #046183;
+    height:2px;
+}
+
+div#footer a, div#footer a:hover{
+    text-decoration-line: none;
+    font-weight: bold;
+    font-size: .98em;
+}
+
+/*Calendar Page*/
+
+.myEventCalendar-subtitle {
+	padding: 10px 0 0 5px;
+	font-weight: bold;
+	font-size: 120%;
+}
+
+table.calendarEvents tr td:first-child {
+    white-space: nowrap;
+    padding-right: 20px;
+}
+
+table.calendarEvents td {
+	vertical-align: top;
+	padding-bottom: 10px;
+}
+
+/*Quote Rotator*/
+/*From http://www.jqueryscript.net/rotator/jQuery-Quote-Rotator-with-A-Slim-Progress-Indicator-simpleQuote.html*/
+
+.cbp-qtcontent img {
+	padding: 10px;
+	width: 300px;
+	float: left;
+}
+
+.cbp-qtcontent img.right {
+	padding: 10px;
+	width: 300px;
+	float: right;
+}
+
+#cbp-qtrotator {
+	width: 100%;
+	height: 650px;
+	position: relative;
+	float: left;
+	margin: 0;
+	padding-top: 11px;
+    clear: both;
+    background-image: none;
+}
+
+.cbp-qtcontent {
+	width: 100%;
+	height: auto;
+	position: absolute;
+	min-height: 180px;
+	top: 0;
+	z-index: 2;
+	display: none
+}
+
+.cbp-qtrotator .cbp-qtcontent.current {
+	display: block
+}
+
+.cbp-qtrotator blockquote {
+	margin: 40px 0 0 0;
+	padding: 0
+}
+
+.cbp-qtrotator blockquote p {
+	font-size: 2em;
+	color: #888;
+	font-weight: 300;
+	margin: 0.4em 0 1em
+}
+
+.cbp-qtrotator blockquote footer {
+	font-size: 1.2em
+}
+
+.cbp-qtrotator blockquote footer:before {
+	content: '― '
+}
+
+.cbp-qtrotator .cbp-qtcontent img {
+	float: right;
+	margin: 0 0 0 50px
+}
+
+.cbp-qtprogress {
+	position: absolute;
+	background: #47a3da;
+	height: 1px;
+	width: 0%;
+	z-index: 1000
+}
+
+.workshops h5 {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}

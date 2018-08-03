@@ -1,0 +1,14 @@
+{
+	// See http://go.microsoft.com/fwlink/?LinkId=827846
+	// for the documentation about the extensions.json format
+	"recommendations": [
+		// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+		"dkundel.vscode-new-file",
+		"eamodio.gitlens",
+		"ms-vscode.node-debug",
+		"ms-vscode.node-debug2",
+		"qinjia.view-in-browser",
+		"spywhere.guides",
+		"vscodevim.vim"
+	]
+}
