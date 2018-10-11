@@ -263,17 +263,18 @@ li {
     color: #990000;
 }
 
-h1.page-title {
+.page-title * {
     color: #046183;
     font-family: helvetica, arial, sans-serif;
     font-weight: 700;
-    font-size: 150%;
     padding-top: 2px;
     margin: 2px auto 15px;
-    clear: both;
     text-align: center;
 }
 
+.page-title h1 {
+    font-size: 150%
+}
 
 .quotes {
     font-style: italic;
